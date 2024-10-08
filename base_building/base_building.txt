@@ -1,0 +1,18 @@
+Q1.What is the Internet? Explain in your own words.
+
+Ans: The Internet is a worldwide network that connects devices, allowing them to share information and communicate. It’s like a digital highway where data moves between computers, phones, and services, enabling things like browsing websites, sending emails, and streaming videos.
+
+Q2.What is a web browser? Explain in your own words.
+Ans:  A web browser is a software tool that lets you access and view websites on the Internet by retrieving and displaying information from them. Examples include Chrome, Safari, and Firefox.
+
+
+Q3.What is a browser engine? Explain in your own words.
+Ans:  A browser engine is a core part of a web browser that interprets the code (like HTML, CSS, and JavaScript) of a website and turns it into what you see on your screen. It’s responsible for rendering web pages, meaning it translates the instructions from the website into text, images, and interactive elements. Essentially, the browser engine is what makes websites look and function the way they should. Examples of browser engines Blink and WebKit .
+
+
+Q4.What is a static site? Explain in your own words.
+Ans:  A static site is a website with fixed content that doesn’t change or update based on user actions. Each page is pre-built with HTML, CSS, and sometimes JavaScript, and looks the same to every visitor. Unlike dynamic sites, which can display different content based on user input or interactions, static sites serve the same content to everyone. They're simpler, load quickly, and are often used for blogs, portfolios, or informational sites where the content doesn’t need to change frequently.
+
+
+Q5.What is a dynamic site? Explain in your own words.
+Ans:  A dynamic site is a website that displays different content based on user interactions or other factors. It generates content in real-time using databases and scripts, making it interactive and personalized. Examples include social media, e-commerce, and news sites.
