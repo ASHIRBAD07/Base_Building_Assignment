@@ -1,5 +1,4 @@
 Q1.What is the Internet? Explain in your own words.
-
 Ans: The Internet is a worldwide network that connects devices, allowing them to share information and communicate. It’s like a digital highway where data moves between computers, phones, and services, enabling things like browsing websites, sending emails, and streaming videos.
 
 Q2.What is a web browser? Explain in your own words.
